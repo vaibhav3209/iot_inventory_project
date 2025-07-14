@@ -1,0 +1,4 @@
+#dont include this in repo
+.venv/
+.idea/
+__pycache__/
